@@ -61,7 +61,7 @@ Notebook-based coursework exploring applied data analysis, visualisation, and da
 ## Connect
 
 - **GitHub:** [UtsavChalodiya](https://github.com/UtsavChalodiya)
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/utsav-chalodiya-230a8b269)
 
 ---
 
