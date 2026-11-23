@@ -1,68 +1,56 @@
 # Hi, I'm Utsav Chalodiya 👋
 
-### Data Science Student | Python • SQL • Data Analysis • Visualisation
+### Aspiring Data Analyst | Python • SQL • Power BI • Data Visualisation
 
-I'm a data science student building practical projects that turn raw data into useful insights. I enjoy exploring datasets, communicating findings through clear visualisations, and developing my skills in analytics and machine learning.
+I'm building practical analytics projects that turn raw data into useful, clearly communicated insights. My portfolio includes UK job-market analysis, financial risk reporting, sports analytics and airline data visualisation.
 
-- 🔎 Interested in **data analysis, business intelligence, and applied machine learning**
-- 🐍 Working with **Python, Pandas, NumPy, Matplotlib, and Seaborn**
-- 📊 Building projects across **sports analytics, airline data, and loan-risk reporting**
-- 🌱 Continuously improving my skills in statistics, SQL, and reproducible data workflows
-- 🎯 Career goal: an entry-level data analyst or data science opportunity
+- **Analytics:** exploratory data analysis, data cleaning, descriptive statistics
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn
+- **SQL & databases:** SQL and PostgreSQL through an end-to-end job-market data project
+- **Business intelligence:** Power BI dashboard/report development
+- **Currently developing:** stronger analytical storytelling, reproducible workflows and applied machine learning
 
----
+## Featured projects
 
-## Featured Projects
+### 🇬🇧 [UK Job Market Intelligence](https://github.com/UtsavChalodiya/uk-job-market-intelligence)
+An end-to-end project collecting UK data-job listings from the Reed API, loading records into PostgreSQL, creating a cleaned SQL view and preparing the data for Power BI analysis.
+
+**Tools:** Python, REST API, PostgreSQL, SQL, Power BI (dashboard in progress)
+
+### 💳 [Loan Risk Analysis](https://github.com/UtsavChalodiya/Loan-Risk-Analysis)
+A Power BI project presenting loan-related information through an interactive report and a PDF export.
+
+**Tools:** Power BI
 
 ### 🏏 [IPL Data Analysis](https://github.com/UtsavChalodiya/IPL-Data-Analysis)
-Analysing IPL match and ball-by-ball data to explore team efficiency, batter output, bowling performance, toss decisions, and pressure situations using Python and visualisations.
+Explores IPL match and ball-by-ball data, including team efficiency, batter and bowler performance, toss decisions and pressure situations.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ### ✈️ [Airline Data Visualisation](https://github.com/UtsavChalodiya/Airline-Data-Visulization)
-Exploratory analysis presented through charts, a Jupyter notebook, and a report to make trends and comparisons easier to understand.
+Exploratory analysis of airline passenger data, communicated through charts, a Jupyter notebook and a written report.
 
 **Tools:** Python, Pandas, Matplotlib, Seaborn, Jupyter
 
-### 💳 [Loan Risk Analysis](https://github.com/UtsavChalodiya/Loan-Risk-Analysis)
-A Power BI project presenting loan-related information in a dashboard and report format for clearer exploration of risk patterns.
+## Skills and tools
 
-**Tools:** Power BI
-
-### 📈 [Applied Data Science](https://github.com/UtsavChalodiya/Applied-Data-Science-1)
-Notebook-based coursework exploring applied data analysis, visualisation, and data workflows.
-
-**Tools:** Python, Jupyter Notebook
-
----
-
-## Skills
-
-| Data analysis | Visualisation | Tools & workflow |
+| Data analysis | Programming & data | Visualisation & workflow |
 |---|---|---|
-| Python | Matplotlib | Jupyter Notebook |
-| Pandas | Seaborn | Git & GitHub |
-| NumPy | Power BI | Exploratory Data Analysis |
-| Statistics | Data storytelling | Reproducible workflows |
+| Exploratory data analysis | Python | Power BI |
+| Data cleaning | Pandas, NumPy | Matplotlib |
+| Descriptive statistics | SQL, PostgreSQL | Seaborn |
+| Analytical storytelling | Git & GitHub | Jupyter Notebook |
 
-*SQL and machine learning are ongoing learning areas; project evidence will be added as I build more work in these areas.*
+## What I'm working towards
 
----
-
-## What I'm Working Towards
-
-- Publishing end-to-end projects with clear questions, methods, findings, and limitations
-- Strengthening SQL, statistics, and machine learning fundamentals
-- Building football analytics projects using data from UK leagues
-- Creating portfolio projects that demonstrate both technical skills and business communication
-
----
+- Publishing complete projects with clear business questions, methods, findings and limitations
+- Improving SQL, data modelling and dashboard design
+- Developing stronger machine-learning fundamentals
+- Building portfolio work that demonstrates both technical ability and business communication
 
 ## Connect
 
 - **GitHub:** [UtsavChalodiya](https://github.com/UtsavChalodiya)
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/utsav-chalodiya-230a8b269)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/utsav-chalodiya-230a8b269)
 
----
-
-*Thanks for visiting. I'm building my portfolio one project at a time.*
+Thanks for visiting my portfolio!
